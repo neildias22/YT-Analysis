@@ -1,7 +1,7 @@
 # YT-Analysis
 
 ## Overview
-This repository contains code and data for conducting a YouTube Data Analysis project using the YouTube Data API and Tableau. The goal of this project is to gather channel statistics and video details for specific YouTube channels and then visualize the insights using Tableau's powerful data visualization capabilities.
+This repository contains code and data for conducting a YouTube Data Analysis project using the YouTube Data API in Python and Tableau. The goal of this project is to gather channel statistics and video details for specific YouTube channels and then visualize the insights using Tableau's powerful data visualization capabilities.
 
 ## Introduction
 YouTube is one of the most popular social media platforms with millions of content creators and viewers. This project aims to analyze the performance of specific YouTube channels by collecting data on their subscribers, total views, video count, and more. The data is then visualized using Tableau to gain valuable insights and present them in an engaging manner.
